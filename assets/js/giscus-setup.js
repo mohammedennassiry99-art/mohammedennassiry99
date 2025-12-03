@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "mohammedennassiry99-art/EN-NASSIRY",
+    "data-repo": "mohammedennassiry99-art/mohammedennassiry99",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
