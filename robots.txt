@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://github.com/mohammedennassiry99-art/mohammedennassiry99/al-folio/sitemap.xml
+Sitemap: https://mohammedennassiry99-art.github.io/mohammedennassiry99//al-folio/sitemap.xml
